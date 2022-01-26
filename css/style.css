@@ -1,5 +1,5 @@
 body {
-  background: #E5E5E5;
+  background: #e5e5e5;
 }
 
 ul {
@@ -26,5 +26,21 @@ li a {
 }
 
 .skill-li {
-  background-color: #F0F0F0;
+  background-color: #f0f0f0;
+}
+
+.navy {
+  color: #6070ff;
+}
+
+.cardy {
+  height: 300px
+}
+
+.textarea {
+  resize: none;
+}
+
+.butty {
+  width: 200px;
 }
