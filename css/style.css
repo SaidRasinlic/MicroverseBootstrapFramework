@@ -1,3 +1,7 @@
+body {
+  background: #E5E5E5;
+}
+
 ul {
   list-style-type: none;
   display: flex;
@@ -19,4 +23,8 @@ li a {
 
 .connect {
   color: #7f8cff;
+}
+
+.skill-li {
+  background-color: #F0F0F0;
 }
