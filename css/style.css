@@ -1,0 +1,22 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  padding: 1px;
+  margin: 1px;
+}
+
+li a {
+  color: #344563;
+  margin-left: -40px;
+  padding-right: 35px;
+}
+
+.social-icon {
+  margin-left: 40px;
+  display: flex;
+}
+
+.connect {
+  color: #7F8CFF;
+}
